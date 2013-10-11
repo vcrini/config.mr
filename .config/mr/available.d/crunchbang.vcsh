@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/crunchbang.git]
+checkout = vcsh clone https://github.com/vcrini/config.crunchbang.git crunchbang
