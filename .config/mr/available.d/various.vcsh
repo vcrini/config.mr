@@ -1,0 +1,3 @@
+[$HOME/.config/vcsh/repo.d/various.git]
+checkout = vcsh clone https://github.com/vcrini/config.various.git various
+
